@@ -1,6 +1,6 @@
 FROM node:latest
 
-EXPOSE 3000
+EXPOSE 7860
 
 WORKDIR /dashboard
 
